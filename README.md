@@ -9,5 +9,3 @@
 **_For Live Preview :- https://clone-2-a518f.web.app_**
 
 **_If you appreciate my work, please 🌟 this repository. It motivates me. :rocket: :rocket:_**
-
-### Connect with me:
